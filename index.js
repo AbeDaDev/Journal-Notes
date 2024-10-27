@@ -11,21 +11,6 @@ document.getElementById("p3").textContent = `I live in ${myTown}`;
 
 
 console.log(`Hello I am ${myName} ${myLastName}`); 
-
-// ---------------------------------------------------------------- constants 
-
-const PI = 3.14159; 
-let radius;
-let circumference;
-
-document.getElementById("mySubmit").onclick = function() { // select the button - when we select button everything in the curly braces executes 
-     radius = document.getElementById("myText").value; // get the value from the text box
-     radius = Number(radius); // cast out input into a number
-     circumference = 2 * PI * radius; // calculate our circumference 
-     document.getElementById("myH3").textContent = circumference + "cm"; // added am h3 element to change and give us our answer 
-
-}
-
 // ---------------------------------------------------------------- if statements
 
 let thisAge = 25; 
@@ -50,4 +35,60 @@ if(time < 12) {
 // another way of writing an if statement 
 
 let age = 25
-let message = age >= 18 ? "You're an adult" : "You are underage"; 
+let message = age >= 18 ? "You're an adult" : "You are underage";
+
+
+// ---------------------------------------------------------------- switches 
+
+let day = 6
+
+switch(day) {
+     case 1: 
+          console.log("Today is Monday");
+          break; // the reason for the break is so if a case it's true it doesn't console.log everything after it. 
+     case 2: 
+          console.log("Today is Tuesday");
+          break;
+     case 3: 
+          console.log("Today is Wednesday");
+          break;
+     case 4: 
+          console.log("Today is Thursday");
+          break;
+     case 5: 
+          console.log("Today is Friday");
+          break;
+     case 6: 
+          console.log("Today is Saturday");
+          break;
+     case 7: 
+          console.log("Today is Sunday");
+          break;
+     default: // default case it's incase none of the cases match or turned out to be true
+          console.log("Invalid day number");
+}
+
+// OR 
+
+
+let testScore = 62;
+let letterGrade;
+
+switch(true) {
+     case testScore >= 90:
+          letterGrade = "A";
+          break;
+     case testScore >= 80:
+          letterGrade = "B";
+          break;
+     case testScore >= 70:
+          letterGrade = "C";
+          break;
+     case testScore >= 60:
+          letterGrade = "D";
+          break;
+     default:
+          letterGrade = "F";
+}
+
+console.log(testScore = letterGrade)
