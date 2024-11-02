@@ -194,9 +194,9 @@ for(let i = 0; i <= 2; i ++) { // i++ increments by 1 but i+=2 increments by 2
 
  // let x = 3; if we add this variable, this one is global. Thi can access any function or variable that is declared. function 2 x will equal 3 but we have to remove their variables for it to be declared 
 
-function2();
+function2(); // this is a global scope 
 
-function function1() {
+function function1() { // this is a local scope 
      let x = 1;
      console.log(x);
 }
