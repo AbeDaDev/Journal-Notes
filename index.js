@@ -167,7 +167,7 @@ while(!loggedIn) { // you can add this condition to the end and replace it with 
      password = window.prompt("Enter your password");
 
      if(username === "myUsername" && password === "myPassword") {
-          loggedIn = true;
+          loggedIn = true
           console.log("Logged in successfully");
      } else {
           console.log("Invalid credentials. Please try again.");
@@ -196,7 +196,7 @@ for(let i = 0; i <= 2; i ++) { // i++ increments by 1 but i+=2 increments by 2
 
 function2(); // this is a global scope 
 
-function function1() { // this is a local scope 
+function function1() { // this is a local scope. 
      let x = 1;
      console.log(x);
 }
@@ -209,3 +209,19 @@ function function2() {
 
 // ---------------------------------------------------------------- arrays ---------------------------------------------------------------- 
 
+let fruit = ["apple", "orange", "banana"];
+
+fruit[2] = "coconut" // this will replace banana with coconut 
+fruit.push("cherry") // this will add cherry to the end of the array fruit 
+// .pop() will remove the last element of the array 
+// .unshift() will add it to the beginning of the array
+// .shift() will remove an element from the beginning of the array
+// fruit.length will count the number of elements in the array 
+// fruit.sort() will sort the array in alphabetical order. if you want it in reverse you add type fruit.sort().reverse()
+for(let i = 0; i < fruit.length; i++){
+     console.log(fruit[i]); // this will log a loop of the fruit array 
+}
+console.log(fruit[0]); // this will log "apple"
+
+
+// ---------------------------------------------------------------- spread operators ----------------------------------------------------------------
