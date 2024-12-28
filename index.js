@@ -226,3 +226,14 @@ console.log(fruit[0]); // this will log "apple"
 
 // ---------------------------------------------------------------- spread operators ----------------------------------------------------------------
 
+let numbers = [1, 2, 3, 4, 5];
+let maximum = Math.max(...numbers);
+let minimum = Math.min(...numbers);
+
+console.log(maximum); // this will log the maximum number of the array which is 5. Without the ... the number would log 2 arrays, one of just 5 and another with all the numbers 
+
+let username = "Bro Code";
+
+let letters = [...username];
+
+console.log(letters); // this will log all the letters as an array of characters 
