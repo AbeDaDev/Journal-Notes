@@ -236,4 +236,19 @@ let username = "Bro Code";
 
 let letters = [...username];
 
-console.log(letters); // this will log all the letters as an array of characters 
+console.log(letters); // this will log all the letters as an array of characters
+
+// ---------------------------------------------------------------- filter() ----------------------------------------------------------------
+
+const products = [
+     {name: "laptop", price: 499, color: "white"},
+     {name: "smartphone", price: 899, color: "black"},
+     {name: "headphones", price: 50, color: "white"},
+     {name: "tablet", price: 199, color: "grey"},
+     {name: "keyboard", price: 210, color: "blue"}, // this is an array of multiple items with different values strings
+ ]
+ 
+ const affordableProducts = products.filter(product => product.price < 200) // this will look into the array of products and search for all products by filtering out those with price under 200
+ console.log(affordableProducts) // this logs the products with the price under 200
+
+ // ---------------------------------------------------------------- map() ----------------------------------------------------------------
