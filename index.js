@@ -251,4 +251,10 @@ const products = [
  const affordableProducts = products.filter(product => product.price < 200) // this will look into the array of products and search for all products by filtering out those with price under 200
  console.log(affordableProducts) // this logs the products with the price under 200
 
+ OR 
+
+ const affordableProducts = products.filter(product => {
+     return product.color === "white" && product.price < 100 // this statement gets more specific about the product you want to return by giving 2 conditions 
+ })
+
  // ---------------------------------------------------------------- map() ----------------------------------------------------------------
