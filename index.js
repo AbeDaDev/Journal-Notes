@@ -258,11 +258,27 @@ const products = [
 
  // ---------------------------------------------------------------- Objects ----------------------------------------------------------------
 
- const person = {
+ const person1 = {
      firstName: "Spongebob",
      latName: "Squarepants",
      age: 30,
      isEmployed: true,
+     sayHello: function(){console.log("Hi I'm Spongebob!")},
+     eat: function(){console.log("I'm eating a Krabby Patty")},
  }
+ 
+ 
+ 
+ const person2 = {
+     firstName: "Patrick",
+     latName: "Star",
+     age: 42,
+     isEmployed: false,
+     sayHello: function(){console.log("Nooooooooo! I'm Patrick")},
+     eat: function(){console.log("I'm SpongeBob tonight")},
+ } 
+ 
+ person1.eat();
+ person2.eat();
 
- console.log(person.firstName)
+// ---------------------------------------------------------------- Object ----------------------------------------------------------------
