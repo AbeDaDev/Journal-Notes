@@ -256,4 +256,13 @@ const products = [
      return product.color === "white" && product.price < 100 // this statement gets more specific about the product you want to return by giving 2 conditions 
  })
 
- // ---------------------------------------------------------------- map() ----------------------------------------------------------------
+ // ---------------------------------------------------------------- Objects ----------------------------------------------------------------
+
+ const person = {
+     firstName: "Spongebob",
+     latName: "Squarepants",
+     age: 30,
+     isEmployed: true,
+ }
+
+ console.log(person.firstName)
