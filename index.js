@@ -332,4 +332,33 @@ function car(make, model, year, color) {
  console.log(MathUtil.getCircumference(10)); // output wil be 62.8318
  console.log(MathUtil.getArea(10)); // output will be 314.159 
 
+ // ---------------------------------------------------------------- Static ----------------------------------------------------------------
+
+ class User {
+
+     static userCount = 0; // user count is currently at 0
  
+     constructor(userName) {
+         this.userName = userName; // this will make it so that if a user logs in that username is used for that user
+         User.userCount++; // increment the user count by 1 
+     }
+ 
+     static getUserCount(){
+         console.log(`There are ${user1.userCount} users online`); // this will log how many users are online
+     }
+     sayHello(){
+ 
+         console.log(`Hello, my use rname is ${this.userName}`); // this will create a greeting for that username who logs in 
+     }
+ }
+ 
+ const user1 = new User("SpongeBob"); // this will make it so that if a user logs in that username is used for that user 
+ const user2 = new User("Patrick");
+ const user3 = new User("Sandy");
+ 
+ console.log(user1.userName); // this will let us know which user logged in and his username
+ console.log(user2.userName);
+ console.log(user3.userName);
+ console.log(User.userCount); // this will let us know how many users are there
+
+ // ----------------------------------------------------------------
