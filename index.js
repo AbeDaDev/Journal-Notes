@@ -308,3 +308,28 @@ function car(make, model, year, color) {
  console.log(car3.model);
  console.log(car3.year);
  console.log(car3.color);
+
+ // ---------------------------------------------------------------- Static ----------------------------------------------------------------
+
+ class MathUtil {
+     static PI = 3.14159;
+ 
+     static getDiameter(radius){
+         return radius * 2; 
+     }
+ 
+     static getCircumference(radius){
+         return 2 * this.PI * radius;
+     }
+ 
+     static getArea(radius){
+         return this.PI * radius * radius;
+     }
+ }
+ 
+ console.log(MathUtil.PI); // output will be 3.14159
+ console.log(MathUtil.getDiameter(10)); // output will be 20
+ console.log(MathUtil.getCircumference(10)); // output wil be 62.8318
+ console.log(MathUtil.getArea(10)); // output will be 314.159 
+
+ 
