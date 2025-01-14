@@ -5,7 +5,7 @@ let myLastName = "Perez";
 let myAge = 34;
 let myTown = "Guadalajara"; 
 
-document.getElementById("p1").textContent = `Hello World I am ${myName} ${myLastName}`;
+document.getElementById("p1").textContent = `Hello World I am ${myName} ${myLastName}` // Review .textContent to make sure how it's used 
 document.getElementById("p2").textContent = `I am currently ${myAge} years old`;
 document.getElementById("p3").textContent = `I live in ${myTown}`;
 
@@ -35,14 +35,14 @@ if(time < 12) {
 // another way of writing an if statement 
 
 let age = 25
-let message = age >= 18 ? "You're an adult" : "You are underage";
+let message = age >= 18 ? "You're an adult" : "You are underage"; // this is still an if else statement
 
 
 // ---------------------------------------------------------------- switches ----------------------------------------------------------------
 
 let day = 6
 
-switch(day) {
+switch(day) { // review switches 
      case 1:
           console.log("Today is Monday");
           break; // the reason for the break is so if a case it's true it doesn't console.log everything after it. 
