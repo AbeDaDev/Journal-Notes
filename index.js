@@ -1,7 +1,7 @@
 // ---------------------------------------------------------------- Variables ----------------------------------------------------------------
 
 let myName = "Abe";
-let myLastName = "Perez";
+let myLastName = "Perez";  // .innerHTML will change the HTML element or add if there is nothing. .textContent will  
 let myAge = 34;
 let myTown = "Guadalajara"; 
 
@@ -96,8 +96,8 @@ console.log(testScore = letterGrade);
 
 const email = "Bro1@gmail.com";
 
-let username = email.slice(0, email.indexOf("@"));
-let extension = email.slice(email.indexOf("@") + 1); // REVIEW SLICING 
+let username = email.slice(0, email.indexOf("@")); // .slicing(0) will output Bro but slicing(1) will output the second letter and on. With a negative number it will backtrack in the array
+let extension = email.slice(email.indexOf("@") + 1); 
 console.log(username); 
 console.log(extension); 
 
@@ -105,12 +105,12 @@ console.log(extension);
 
 // let userName = window.prompt("Enter your userName address"); 
 
-userName = userName.trim();
-let letter = userName.charAt(0);
-letter = letter.toUpperCase(); 
+userName = userName.trim(); // Seems to trim down white spaces
+let letter = userName.charAt(0); // ?
+letter = letter.toUpperCase(); // this will upper case the sentence or all letters
 
 let extraChars = userName.slice(1);
-extraChars = extraChars.toLowerCase();
+extraChars = extraChars.toLowerCase(); // it will lower case the sentence or all letters
 userName = letter + extraChars; 
 
 console.log(userName); 
