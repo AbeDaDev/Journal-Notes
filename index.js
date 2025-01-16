@@ -226,8 +226,8 @@ console.log(fruit[0]); // this will log "apple"
 // ---------------------------------------------------------------- spread operators ----------------------------------------------------------------
 
 let numbers = [1, 2, 3, 4, 5];
-let maximum = Math.max(...numbers);
-let minimum = Math.min(...numbers);
+let maximum = Math.max(...numbers); // .max gives you the biggest number in the array
+let minimum = Math.min(...numbers); // .min gives you the smallest number in the array
 
 console.log(maximum); // this will log the maximum number of the array which is 5. Without the ... the number would log 2 arrays, one of just 5 and another with all the numbers 
 
