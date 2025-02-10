@@ -377,3 +377,41 @@ function car(make, model, year, color) {
  }
 
  add(3, 4)
+
+ // greeting & name = parameter
+ // "Howdy" & "James" = arguments
+ // num1 & num2 = parameters
+ // 3 & 4 = arguments
+
+ // ----------------------------------------------------------------
+
+ // callback function
+ function greet(name, callback) {
+     console.log(`Hello, ${name}!`);
+     callback();
+ }
+
+ function sayGoodbye() {
+     console.log("Goodbye!");
+ }
+
+ greet("James", sayGoodbye);
+
+ // ----------------------------------------------------------------
+
+ // Promise
+ const promise = new Promise((resolve, reject) => {
+     setTimeout(() => {
+         resolve("Promise Resolved!");
+     }, 2000);
+ });
+
+ promise.then((result) => {
+     console.log(result);
+ }).catch((error) => {
+     console.log(error);
+ });
+
+ // ----------------------------------------------------------------
+
+ // async & await
