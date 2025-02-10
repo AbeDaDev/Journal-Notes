@@ -414,4 +414,32 @@ function car(make, model, year, color) {
 
  // ----------------------------------------------------------------
 
- // async & await
+ // async & await functions
+ async function fetchData() {
+     try {
+         const response = await fetch("https://api.example.com/data");
+         if (!response.ok) {
+             throw new Error(`HTTP error! status: ${response.status}`);
+         }
+         const data = await response.json();
+         console.log(data);
+     } catch (error) {
+         console.error("Error:", error);
+     }
+ }
+
+ fetchData();
+
+// ------------------------------------
+
+let myCourses = ["Learn CSS Animations", "UI Design Fundamentals", "Intro to Clean Code"]
+
+function logItems(arr) {
+     for (let i = 0; i < arr.length; i++) {
+          console.log(arr[i])
+     }
+}
+
+logItems(myCourses)
+
+// ------------------------------------
