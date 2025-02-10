@@ -362,3 +362,18 @@ function car(make, model, year, color) {
  console.log(User.userCount); // this will let us know how many users are there
 
  // ----------------------------------------------------------------
+
+ // parameters
+ function greetUser(greeting, name) {
+     welcomeEl.textContent = `${greeting}, ${name}`;
+ }
+
+ // argument
+ let hi = "Howdy"
+ greeting(hi, "James")
+
+ function add(num1, num2) {
+     return num1 + num2;
+ }
+
+ add(3, 4)
