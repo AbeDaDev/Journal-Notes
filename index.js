@@ -40,7 +40,7 @@ let message = age >= 18 ? "You're an adult" : "You are underage"; // this is sti
 
 // ---------------------------------------------------------------- switches ----------------------------------------------------------------
 
-let day = 6
+let day = 6 // reviewing switches on 2/1/25
 
 switch(day) { // review switches 
      case 1:
