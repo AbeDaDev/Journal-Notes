@@ -452,6 +452,6 @@ setTimeout(function(){
 }, 1500) // setTimeout is a function that will run after a certain amount of time. In this case, it will run after 1500 milliseconds (1.5 seconds)
 
 modalCloseBtn.addEventListener('click', function() {
-     modal.style.display = 'none'
+     modal.style.display = 'none' // modal.style.display = 'none' will hide the modal by reaching into CSS and changing the display property to none
 }
 ) // addEventListener is a function that listens for a click event on the modalCloseBtn element. When the element is clicked, the modal will be hidden.
