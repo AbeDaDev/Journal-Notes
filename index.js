@@ -442,4 +442,16 @@ function logItems(arr) {
 
 logItems(myCourses)
 
-// ------------------------------------
+// ----------------------------------- Exercise -----------------------------------
+
+const modal = document.getElementById('modal'); // get the id of modal and create a variable named modal
+const modalCloseBtn = document.getElementById('modal-close-btn'); // get the id of modal-close-btn and create a variable named modalCloseBtn
+
+setTimeout(function(){
+     modal.style.display = 'inline'
+}, 1500) // setTimeout is a function that will run after a certain amount of time. In this case, it will run after 1500 milliseconds (1.5 seconds)
+
+modalCloseBtn.addEventListener('click', function() {
+     modal.style.display = 'none'
+}
+) // addEventListener is a function that listens for a click event on the modalCloseBtn element. When the element is clicked, the modal will be hidden.
