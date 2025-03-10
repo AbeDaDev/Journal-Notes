@@ -455,3 +455,12 @@ modalCloseBtn.addEventListener('click', function() {
      modal.style.display = 'none' // modal.style.display = 'none' will hide the modal by reaching into CSS and changing the display property to none
 }
 ) // addEventListener is a function that listens for a click event on the modalCloseBtn element. When the element is clicked, the modal will be hidden.
+
+// ----------------------------------- API -----------------------------------
+
+fetch("https://apis.scrimba.com/bored/api/activity")
+    .then(response => response.json())
+    .then(data => {
+        console.log(data)
+        document.getElementById("activity-name").textContent = data.activity
+    })
