@@ -1,4 +1,86 @@
-Practiced a bit of SQL and CSS - 12/14
-Today I will be working on Git in a website that has exercises 12/16
+Studying JavaScript on Scrimba today - 2/10/25
 
-starting Javascript on scrimba to get even more practice in. 1/25/25
+- Focusing on understanding basic JavaScript fundamentals & logic - innerhtml/getelementById
+- When I start the project refresher, take notes on what each line does and how they create logic. May start 2/11/25
+- Studying off platform 2/12/25
+- Studying off platform 2/13/25
+- Starting a new project on Scrimba 2/14/25
+- Starting a new project on Scrimba 2/15/25
+- Studying on Scrimba today 2/17/25
+- Studying off platform 2/19/25
+- Studying off platform 2/20/25
+- Studying off platform 2/24/25
+- Studying React on Mimo 2/26/25
+- Studying React on Mimo & starting a new project
+- Studying React on Mimo
+- Studying on Scrimba 3/2/25
+- Studying on Scrimba 3/5/25
+- Studying on Scrimba 3/6/25
+- Studying AJAX and filling out interview questionaire
+- Studying on Scrimba 3/8/25
+- Studying on Scrimba 3/9/25
+- Studying om Scrimba 3/10/25
+- Studying on Scrimba 3/11/25
+- Studying Node.JS off platform 3/12/25
+- Studying Python on Scrimba 3/13/25
+- Studying Python on Scrimba 3/14/25
+- Studying Python on Scrimba 3/15/25
+- Finishing Python course on Scrimba 3/16/25
+- Finished 3 certificates from Scrimba. Going to work on JavaScript and React 3/17/25
+- Studying JavaScript on Scrimba 3/18/25
+- Studying TypeScript on Scrimba 3/19/25
+- Finishing up TypeScript course on Scrimba 3/20/25
+- Finished TypeScript course. Going back to Front End course 3/21/25
+- Studying building a portfolio on Scrimba 3/22/25
+- Connecting with other developers from Scrimba 3/23/25
+- Studying on YouTube 3/25/25
+- Studying React on YouTube 3/26/25
+- Studying on Scrimba 3/27/25
+- Studying on Scrimba 3/28/25
+- Studying on Scrimba 3/29/25
+- Studying om Scrimba 3/31/25
+- Studying on Scrimba 4/1/25
+- Studying on Scrimba 4/4/25
+- Studying on Scrimba 4/6/25
+- Studying on Scrimba 4/7/25
+- Practicing Logic on Brilliant 4/8/25
+- Studying on Scrimba 4/9/25
+- Practicing on Logic on Brilliant 4/10/25
+- Studying on Scrimba 4/14/25
+- Studying on Scrimba 4/15/25
+- Studying SQL on Scrimba 4/16/25
+- Studying Node on Scrimba 4/17/25
+- Studying Node on Scrimba 4/18/25
+- Studying Node on Scrimba 4/19/25
+- Studying Node on Scrimba 4/20/25
+- Finished Node on Scrimba 4/21/25
+- Submitted applications 4/22/25
+- Studying UI and UX design on Scrimba 4/26/25
+- Starting React on Scrimba 4/27/25
+- Studying React on Scrimba 4/28/25
+- Studying React on Scrimba 4/29/25
+- Studying React on Scrimba 4/30/25
+- Studying React on Scrimba 5/1/25
+- Studying Rect on Scrimba 5/2/25
+- Studying Rect on Scrimba 5/3/25
+- Studying Rect on Scrimba 5/4/25
+- Working on my resule 5/5/25
+- Applying for jobs 5/6/25
+- Applying for jobs and studying React 5/7/25
+- Studying Python 5/8/25
+- Studying Python 5/9/25
+- Studying Python 5/10/25
+- Studying React on Scrimba 5/11/25
+- Studying React & Python 5/12/25
+- Studying Python 5/13/25
+- Studying Python 5/14/25
+- Studying Python 5/15/25
+- Studying Python 5/16/25
+- Studying Python 5/17/25
+- Studying Phthon 5/18/25
+- Studying Python 5/20/25
+- Starting AI engineering 5/21/25
+- Studying for an interview 5/22/25
+- Studying for an interview 5/23/25
+- Studying for an interview 5/24/25
+- Taking an interview exam 5/25/25
