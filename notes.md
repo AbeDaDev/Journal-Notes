@@ -84,3 +84,9 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Studying for an interview 5/23/25
 - Studying for an interview 5/24/25
 - Taking an interview exam 5/25/25
+- Studying on Mimo 6/6/25
+- Studying on Brilliant 6/7/25
+- Stidying on Brilliant & Mimo 6/8/25
+- Practicing JavaScript 6/9/25
+- Studying AI 6/10/25
+- Studying AI 6/11/25
