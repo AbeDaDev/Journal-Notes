@@ -88,3 +88,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Studying on Brilliant 6/7/25
 - Stidying on Brilliant & Mimo 6/8/25
 - Practicing JavaScript 6/9/25
+- Studying AI 6/10/25
