@@ -1,4 +1,8 @@
-console.log("Hello, World!");
+ function panic(str) {
 
-console.log("This is a simple Node.js application.");
-console.log("It prints messages to the console.");
+
+    return str; 
+ }
+
+    console.log(panic("I'm almost out of coffee"));
+    console.log(panic("Winter is coming"));
