@@ -93,3 +93,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Studying AI 6/12/25
 - Studying on Scrimba 6/14/25
 - Studying on Scrimba 6/15/25
+- Finishing up my React project
