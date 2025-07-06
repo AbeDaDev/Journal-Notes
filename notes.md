@@ -104,3 +104,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Studying AI on Scrimba 7/3/25
 - Studying AI on Scrimba 7/4/25
 - Applying for jobs 7/5/25
+- Applying for jobs 7/6/25
