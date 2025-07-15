@@ -110,3 +110,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Working on an assesment 7/10/25
 - Finishing assesment 7/11/25
 - Studying AI on CodeAcademy 7/13/25
+- Studying AWS 7/15/25
