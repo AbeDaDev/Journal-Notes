@@ -113,5 +113,5 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Studying AWS 7/15/25
 - Studying AWS on CodeAcademy 7/16/25
 - Studying AWS on CodeAcademy 7/17/25
-- Stusying AWS on CodeAcademy 
+- Stusying MongoDB oN YouTube 7/18/25
 
