@@ -122,3 +122,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Studying Docker 7/24/25
 - Studying Docker 7/25/25
 - Studying Docker 7/26/25
+- Studying Docker 7/27/25
