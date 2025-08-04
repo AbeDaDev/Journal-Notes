@@ -129,3 +129,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Studying Docker 7/31/25
 - Studying Docker on Boot.Dev 8/1/25
 - Studying Docker on Boot.Dev 8/2/25
+- Finishing Docker on Boot.Dev 8/3/25
