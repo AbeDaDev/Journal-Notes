@@ -137,3 +137,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Stidying AI 8/10/25
 - Studying Kubernetes 8/11/25
 - Studying JavaScript 8/12/25
+- Studying Python 8/13/25
