@@ -151,4 +151,5 @@ Studying JavaScript on Scrimba today - 2/10/25
 - BREAK 8/27/25
 - BREAK 8/28/25
 - BREAK 8/29/25
-- Stusying Python and AI 8/30/25
+- BREAK 8/30/25
+- BREAK 8/31/25
