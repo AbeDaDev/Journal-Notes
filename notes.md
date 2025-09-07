@@ -139,23 +139,5 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Studying JavaScript 8/12/25
 - Studying Python 8/13/25
 - Reviewing JavaScript 8/15/25
-- BREAK 8/16/25
-- BREAK 8/17/25
-- BREAK 8/19/25 
-- BREAK 8/20/25
-- BREAK 8/21/25
-- BREAK 8/23/25
-- BREAK 8/24/25
-- BREAK 8/25/25
-- BREAK 8/26/25
-- BREAK 8/27/25
-- BREAK 8/28/25
-- BREAK 8/29/25
-- BREAK 8/30/25
-- BREAK 8/31/25
-- BREAK 9/1/25
-- BREAK 9/2/25
-- BREAK 9/3/25
-- BREAK 9/4/25
-- Studying Python & React 9/5/25
-- Studying Python 9/
+- BREAK 8/16/25 - 9/6/24
+- Studying Python 9/7/25
