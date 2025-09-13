@@ -144,4 +144,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Study Python 9/8/25
 - Study Python 9/10/25
 - Study Python 9/11/25
-- Study Python 9/
+- Study Python 9/12/25
