@@ -72,13 +72,7 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Studying Python 5/10/25
 - Studying React on Scrimba 5/11/25
 - Studying React & Python 5/12/25
-- Studying Python 5/13/25
-- Studying Python 5/14/25
-- Studying Python 5/15/25
-- Studying Python 5/16/25
-- Studying Python 5/17/25
-- Studying Phthon 5/18/25
-- Studying Python 5/20/25
+- Studying Python 5/13 - 5/20
 - Starting AI engineering 5/21/25
 - Studying for an interview 5/22/25
 - Studying for an interview 5/23/25
@@ -113,35 +107,17 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Studying AWS 7/15/25
 - Studying AWS on CodeAcademy 7/16/25
 - Studying AWS on CodeAcademy 7/17/25
-- Stusying MongoDB oN YouTube 7/18/25
-- Studying MongoDB 7/19/25
-- Studying Docker 7/20/25
-- Studying Docker 7/21/25
-- Stidying Docker 7/22/25
-- Studying Docker 7/23/25
-- Studying Docker 7/24/25
-- Studying Docker 7/25/25
-- Studying Docker 7/26/25
-- Studying Docker 7/27/25
-- Studying Docker 7/28/25
-- Studying Docket 7/29/25
-- Studying Docker 7/30/25
-- Studying Docker 7/31/25
+- Stusying MongoDB on YouTube 7/18 - 7/19
+- Studying Docker 7/19 - 7/31
 - Studying Docker on Boot.Dev 8/1/25
 - Studying Docker on Boot.Dev 8/2/25
 - Finishing Docker on Boot.Dev 8/3/25
 - Studying On Boot.Dev 8/4/25
-- Studying AI 8/7/25
-- Studying AI 8/8/25
-- Studying AI 8/9/25
-- Stidying AI 8/10/25
+- Studying AI 8/7 - 8/10
 - Studying Kubernetes 8/11/25
 - Studying JavaScript 8/12/25
 - Studying Python 8/13/25
 - Reviewing JavaScript 8/15/25
 - BREAK 8/16/25 - 9/6/24
 - Applications 9/7/25
-- Study Python 9/8/25
-- Study Python 9/10/25
-- Study Python 9/11/25
-- Study Python 9/12/25
+- Study Python 9/8 - 9/14
