@@ -127,3 +127,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Networking 9/19
 - Networking 9/20
 - Networking 9/21
+- Networking 9/22
