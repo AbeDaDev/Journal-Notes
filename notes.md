@@ -124,9 +124,5 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Applications 9/15
 - Studying Python 9/16
 - Masterminding 9/17 
-- Networking 9/19
-- Networking 9/20
-- Networking 9/21
-- Networking 9/22
-- Networking 9/23
-- Networking 9/24
+- Networking 9/19 - 9/25
+- Convention preping 9/26
