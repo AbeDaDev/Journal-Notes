@@ -126,3 +126,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Masterminding 9/17 
 - Networking 9/19 - 9/25
 - Convention preping 9/26
+- PyBeach25 convention 9/27
