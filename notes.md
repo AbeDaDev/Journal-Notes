@@ -128,3 +128,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Convention preping 9/26
 - PyBeach25 convention 9/27
 - Applications & Networking 9/28
+- Self care 9/29
