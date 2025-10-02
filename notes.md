@@ -130,3 +130,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Applications & Networking 9/28
 - Self care 9/29
 - Planning out some projects 9/30 
+- Strategising October 10/1
