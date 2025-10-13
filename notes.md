@@ -132,4 +132,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Planning out some projects 9/30 
 - Applications 10/1
 - Strategising October 10/2 - 10/6
-- New project started 10/7 - 10/12
+- New project started 10/7 - 10/13
