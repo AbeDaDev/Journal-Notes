@@ -1,3 +1,4 @@
+
 Studying JavaScript on Scrimba today - 2/10/25
 
 - Focusing on understanding basic JavaScript fundamentals & logic - innerhtml/getelementById
@@ -135,3 +136,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - New project started 10/7 - 10/14
 - Planning Python project 10/17
 - choosing what next project to work on 10/23
+- May start a Python project 
