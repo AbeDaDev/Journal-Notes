@@ -137,3 +137,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Planning Python project 10/17
 - choosing what next project to work on 10/23
 - May start a Python project 
+- Applications 10/26
