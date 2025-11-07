@@ -141,3 +141,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Practicing Python 10/20 - 10/28
 - Future tripping and game planning 10/29 - 11/2
 - Applying for jobs 11/3
+- Strategising job hunting 11/6
