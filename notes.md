@@ -143,4 +143,5 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Applying for jobs 11/3
 - Strategising job hunting 11/6 - 11/9
 - Mental health day. 11/10 
-- Starting a ne project i hope 11/11
+- Starting a new project i hope 11/11
+- Studying 11/12
