@@ -145,4 +145,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Mental health day. 11/10 
 - Starting a new project i hope 11/11
 - Studying 11/12 - 11/15
-- Listening to Coding podcasts 11/22
+- Listening to Coding podcasts 11/23
