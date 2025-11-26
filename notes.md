@@ -1,4 +1,4 @@
-
+mi
 Studying JavaScript on Scrimba today - 2/10/25
 
 - Focusing on understanding basic JavaScript fundamentals & logic - innerhtml/getelementById
@@ -145,4 +145,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Mental health day. 11/10 
 - Starting a new project i hope 11/11
 - Studying 11/12 - 11/15
-- Listening to Coding podcasts 11/24
+- Listening to Coding podcasts 11/25
