@@ -146,3 +146,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Starting a new project i hope 11/11
 - Studying 11/12 - 11/15
 - Listening to Coding podcasts 11/26
+- Happy Thanksgiving 11/27
