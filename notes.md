@@ -149,4 +149,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Happy Thanksgiving 11/27
 - Black Friday study 11/28
 - Studying Python 11/29
-- Studying 12/2 - 12/3
+- Studying 12/2 - 12/4
