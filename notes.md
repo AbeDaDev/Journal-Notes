@@ -151,3 +151,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Studying Python 11/29
 - Studying 12/2 - 12/7
 - Stusying for interview 12/8
+- Interview 12/9
