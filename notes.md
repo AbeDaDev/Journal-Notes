@@ -152,4 +152,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Studying 12/2 - 12/7
 - Stusying for interview 12/8
 - Interview 12/9
-- Studying 12/12
+- Trying to get back into focus 12/12
