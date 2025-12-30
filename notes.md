@@ -156,3 +156,4 @@ Studying JavaScript on Scrimba today - 2/10/25
 - Start re assesing my strategy 12/23
 - Merry Christmas 12/25
 - Rest 12/26 - 12/28
+- Back to routine 12/29
