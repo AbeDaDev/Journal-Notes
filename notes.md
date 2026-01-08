@@ -5,5 +5,6 @@ Coding Journal 2026
 - Game planing 1/3
 - Happy Birthday to me 1/4
 - Had a meeting with Daniel for a startup 1/5
-- Starting Vue Js 1/6
+- Started Vue Js and finished the certificate 1/6
 - Sick 1/7
+- Hopefully not sick so I can pick up my aunt 1/8
