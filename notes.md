@@ -6,3 +6,4 @@ Coding Journal 2026
 - Happy Birthday to me 1/4
 - Had a meeting with Daniel for a startup 1/5
 - Starting Vue Js 1/6
+- Sick 1/7
