@@ -8,5 +8,5 @@ Coding Journal 2026
 - Started Vue Js and finished the certificate 1/6
 - Sick 1/7
 - Hopefully not sick so I can pick up my aunt 1/8
-- Recovering 1/9 - 1/15
+- Recovering 1/9 - 1/16
 - 
