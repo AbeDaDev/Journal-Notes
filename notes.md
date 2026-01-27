@@ -9,4 +9,4 @@ Coding Journal 2026
 - Sick 1/7
 - Hopefully not sick so I can pick up my aunt 1/8
 - Recovering 1/9 - 1/17
-- Getting back to routine 1/18 - 1/22
+- Getting back to routine 1/18 - 1/23
