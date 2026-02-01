@@ -10,5 +10,5 @@ Coding Journal 2026
 - Hopefully not sick so I can pick up my aunt 1/8
 - Recovering 1/9 - 1/17
 - Getting back to routine 1/18 - 1/29
-- Reaching out/Networking 1/30
+- Reaching out/Networking 1/31
 - 
