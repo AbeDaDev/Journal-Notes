@@ -11,4 +11,4 @@ Coding Journal 2026
 - Recovering 1/9 - 1/17
 - Getting back to routine 1/18 - 1/29
 - Reaching out/Networking 1/31
-- 
+- Gotta grow 2/1
