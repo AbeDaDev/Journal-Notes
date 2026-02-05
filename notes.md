@@ -12,3 +12,5 @@ Coding Journal 2026
 - Getting back to routine 1/18 - 1/29
 - Reaching out/Networking 1/31
 - Gotta grow 2/1
+- Studied AI essentials 2/4
+- Studying AWS 
