@@ -13,5 +13,6 @@ Coding Journal 2026
 - Reaching out/Networking 1/31
 - Gotta grow 2/1
 - Studied AI essentials 2/4
-- Studying AWS 2/5 - 2/8.
+- Studying AWS 2/5 - 2/8
+- May start Next js course again 2/11
 - 
