@@ -15,5 +15,5 @@ Coding Journal 2026
 - Studied AI essentials 2/4
 - Studying AWS 2/5 - 2/8
 - May start Next js course again 2/11
-- Sick 2/12
+- Sick 2/12 - 2/13
 - 
