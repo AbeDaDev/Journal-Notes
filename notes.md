@@ -16,4 +16,4 @@ Coding Journal 2026
 - Studying AWS 2/5 - 2/8
 - May start Next js course again 2/11
 - Sick 2/12 - 2/14
-- prepong
+- Preparing for a vacation 
