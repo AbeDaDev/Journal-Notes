@@ -17,3 +17,4 @@ Coding Journal 2026
 - May start Next js course again 2/11
 - Sick 2/12 - 2/14
 - Preparing for a project 2/16
+- Getting some practice in 2/18
