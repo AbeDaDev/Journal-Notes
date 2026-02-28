@@ -19,4 +19,4 @@ Coding Journal 2026
 - Preparing for a project 2/16
 - Getting some practice in 2/18 - 2/20
 - Stuck do to Narcos 2/22 - 2/23
-- Finally Vallarta 2/24 - 2/26
+- Finally Vallarta 2/24 - 2/27
