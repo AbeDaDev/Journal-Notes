@@ -20,4 +20,4 @@ Coding Journal 2026
 - Getting some practice in 2/18 - 2/20
 - Stuck do to Narcos 2/22 - 2/23
 - Finally Vallarta 2/24 - 2/27
-- Home after vacation 3/1
+- Home after vacation 3/1 - 3/2
