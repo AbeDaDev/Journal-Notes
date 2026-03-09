@@ -21,3 +21,4 @@ Coding Journal 2026
 - Stuck do to Narcos 2/22 - 2/23
 - Finally Vallarta 2/24 - 2/27
 - Home after vacation 3/1 - 3/4
+- Working on Victors website
