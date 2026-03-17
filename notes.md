@@ -23,4 +23,5 @@ Coding Journal 2026
 - Home after vacation 3/1 - 3/4
 - Working on Victors website
 - Coding code for coding projects
-- Planning next project 
+- Planning next project
+- Planning maybe a crypto page
