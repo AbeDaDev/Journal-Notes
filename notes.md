@@ -24,4 +24,4 @@ Coding Journal 2026
 - Working on Victors website
 - Coding code for coding projects
 - Planning next project
-- Planning maybe a crypto app 1
+- Planning maybe a crypto app 12
