@@ -22,4 +22,5 @@ Coding Journal 2026
 - Finally Vallarta 2/24 - 2/27
 - Home after vacation 3/1 - 3/4
 - I was all over the place most of March a
-- planning a Full Stack appp
+- planning a Full Stack app
+- Gotta look into free lancing 
