@@ -23,4 +23,4 @@ Coding Journal 2026
 - Home after vacation 3/1 - 3/4
 - I was all over the place most of March a
 - planning a Full Stack app
-- Gotta look into free lancin
+- Gotta look into free lancinnn
