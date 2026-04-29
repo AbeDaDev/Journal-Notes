@@ -24,3 +24,4 @@ Coding Journal 2026
 - I was all over the place most of March a
 - planning a Full Stack app
 - Gotta look into free lancinng jobs
+- Attending events 
