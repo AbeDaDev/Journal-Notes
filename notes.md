@@ -25,3 +25,4 @@ Coding Journal 2026
 - planning a Full Stack app
 - Gotta look into free lancinng jobs
 - Attending eventvgh
+- Applying for jobs 
