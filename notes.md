@@ -28,3 +28,4 @@ Coding Journal 2026
 - Applying for jobs 5/27
 - Getting back to studying 5/28
 - Working on Victors page 5/30
+- Coding practice 5/31
