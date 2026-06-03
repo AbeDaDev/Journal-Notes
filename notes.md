@@ -29,3 +29,4 @@ Coding Journal 2026
 - Getting back to studying 5/28
 - Working on Victors page 5/30
 - Coding practice 5/31
+- Sceimba 6/2
