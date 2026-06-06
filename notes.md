@@ -30,3 +30,4 @@ Coding Journal 2026
 - Working on Victors page 5/30
 - Coding practice 5/31
 - Sceimba 6/2
+- Networking 6/3-5
