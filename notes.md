@@ -31,4 +31,4 @@ Coding Journal 2026
 - Coding practice 5/31
 - Sceimba 6/2
 - Networking 6/3-5
-- Studying something alreadyujssjjs
+- Studying something alreadyu
