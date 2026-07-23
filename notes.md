@@ -33,3 +33,4 @@ Coding Journal 2026
 - Networking 6/3-5
 - Studying something already...DONT GIVE UP
 - STUDY ! APPLY....
+- Updated Resume 7/22
