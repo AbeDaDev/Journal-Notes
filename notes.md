@@ -32,5 +32,5 @@ Coding Journal 2026
 - Sceimba 6/2
 - Networking 6/3-5
 - Studying something already...DONT GIVE UP
-- STUDY ! APPLY....
+- STUDY ! APPLY
 - Updated Resume 7/22.....
