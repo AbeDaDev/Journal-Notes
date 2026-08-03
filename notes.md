@@ -35,4 +35,4 @@ Coding Journal 2026
 - STUDY ! APPLY
 - Updated Resume 7/22
 - Attended Tech Link Up 7/29
-- Structure building
+- Structure building......
