@@ -37,4 +37,5 @@ Coding Journal 2026
 - Attended Tech Link Up 7/29
 - Structure building
 - Python practice 8/3 
-- Javascript
+- Javascript 8/4
+- Node Js and backend 8/5
