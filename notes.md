@@ -36,4 +36,5 @@ Coding Journal 2026
 - Updated Resume 7/22
 - Attended Tech Link Up 7/29
 - Structure building
-- Python practice 8/3
+- Python practice 8/3 
+- Javascript
