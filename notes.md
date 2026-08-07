@@ -39,3 +39,4 @@ Coding Journal 2026
 - Python practice 8/3 
 - Javascript 8/4
 - Node Js and backend 8/5
+- Databases 8/6
