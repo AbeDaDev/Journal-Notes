@@ -40,3 +40,4 @@ Coding Journal 2026
 - Javascript 8/4
 - Node Js and backend 8/5
 - Databases 8/6
+- Yourube 8/7
