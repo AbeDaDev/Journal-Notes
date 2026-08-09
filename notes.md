@@ -41,3 +41,4 @@ Coding Journal 2026
 - Node Js and backend 8/5
 - Databases 8/6
 - Yourube 8/7
+- Big Meet up in Irvine 8/8
