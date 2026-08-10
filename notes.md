@@ -42,3 +42,4 @@ Coding Journal 2026
 - Databases 8/6
 - Yourube 8/7
 - Big Meet up in Irvine 8/8
+- Reading 8/9
