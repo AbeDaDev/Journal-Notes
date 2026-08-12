@@ -43,4 +43,4 @@ Coding Journal 2026
 - Yourube 8/7
 - Big Meet up in Irvine 8/8
 - Reading 8/9
-- Business Analyst reading 8/9
+- Business Analyst reading 8/9 - 8/10
