@@ -45,3 +45,4 @@ Coding Journal 2026
 - Reading 8/9
 - Business Analyst reading 8/9 - 8/10
 - Tech Link Up 8/12
+- Python 8/13
