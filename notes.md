@@ -47,4 +47,5 @@ Coding Journal 2026
 - Tech Link Up 8/12
 - Python 8/13 - 8/15
 - LeetCode 8/16
-- Python 8/17 - 8/22
+- Python 8/17 - 8/23
+- Express js 8/25
