@@ -50,3 +50,4 @@ Coding Journal 2026
 - Python 8/17 - 8/23
 - Express js 8/25
 - Tech Link Up 8/26
+- Techeria Meet up 8/27
