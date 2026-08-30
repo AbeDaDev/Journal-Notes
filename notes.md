@@ -52,3 +52,4 @@ Coding Journal 2026
 - Tech Link Up 8/26
 - Techeria Meet up 8/27
 - Travel break 8/28
+- Job Applications 8/29
