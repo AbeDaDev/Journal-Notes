@@ -54,4 +54,5 @@ Coding Journal 2026
 - Travel break 8/28
 - Job Applications 8/29
 - Concert Break 8/30
-- Express js 8/31
+- Express js 8/31 - 9/1
+- 
