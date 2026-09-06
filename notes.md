@@ -56,4 +56,4 @@ Coding Journal 2026
 - Concert Break 8/30
 - Express js 8/31 - 9/1
 - Neetcode with Josh 9/2
-- Javascript Refreser 9/3 - 
+- Javascript Refreser 9/3 - 9/4
