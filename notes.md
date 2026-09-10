@@ -41,7 +41,7 @@ Coding Journal 2026
 - Node Js and backend 8/5
 - Databases 8/6
 - Yourube 8/7
-- Big Meet up in Irvine 8/8
+- Summer Bash Meet up in Irvine 8/8
 - Reading 8/9
 - Business Analyst reading 8/9 - 8/10
 - Tech Link Up 8/12
@@ -58,4 +58,5 @@ Coding Journal 2026
 - Neetcode with Josh 9/2
 - Javascript Refreser 9/3 - 9/4
 - Neetcode w Josh 9/7 
-- Samples
+- Javascript refreserr 9/8
+- Tech Link Up Meet up 9/9
