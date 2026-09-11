@@ -58,5 +58,6 @@ Coding Journal 2026
 - Neetcode with Josh 9/2
 - Javascript Refreser 9/3 - 9/4
 - Neetcode w Josh 9/7 
-- Javascript refreserr 9/8
+- Javascript refresher 9/8
 - Tech Link Up Meet up 9/9
+- Javascript Refresher 9/10 - 
