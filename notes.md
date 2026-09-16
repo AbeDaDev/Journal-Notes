@@ -61,3 +61,4 @@ Coding Journal 2026
 - Javascript refresher 9/8
 - Tech Link Up Meet up 9/9
 - Javascript Refresher 9/10 - 9/14
+- Reading Algorithms 9/15
