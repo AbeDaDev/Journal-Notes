@@ -62,3 +62,4 @@ Coding Journal 2026
 - Tech Link Up Meet up 9/9
 - Javascript Refresher 9/10 - 9/14
 - Reading Algorithms 9/15
+- Neetcode with Josh 9/16
