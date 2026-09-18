@@ -63,3 +63,4 @@ Coding Journal 2026
 - Javascript Refresher 9/10 - 9/14
 - Reading Algorithms 9/15
 - Neetcode with Josh 9/16
+- Javascript review 9/17
