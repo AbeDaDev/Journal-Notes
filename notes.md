@@ -65,3 +65,4 @@ Coding Journal 2026
 - Neetcode with Josh 9/16
 - Javascript review 9/17 - 9/18
 - Self care & Algorithm reading 9/19 - 9/23
+- TECHeria meet up 9/24
