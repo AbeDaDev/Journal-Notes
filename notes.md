@@ -66,4 +66,4 @@ Coding Journal 2026
 - Javascript review 9/17 - 9/18
 - Self care & Algorithm reading 9/19 - 9/23
 - TECHeria meet up 9/24
-- Break 9/26 - 9/27
+- Break 9/26 - 9/28
