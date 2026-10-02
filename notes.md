@@ -68,3 +68,4 @@ Coding Journal 2026
 - TECHeria meet up 9/24
 - Break 9/26 - 9/29
 - NeetCode 9/30
+- Break 10/1
