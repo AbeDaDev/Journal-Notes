@@ -69,3 +69,4 @@ Coding Journal 2026
 - Break 9/26 - 9/29
 - NeetCode 9/30
 - Break 10/1 - 10/4
+- Adjustments 10/9
