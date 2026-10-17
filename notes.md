@@ -70,4 +70,5 @@ Coding Journal 2026
 - NeetCode 9/30
 - Break 10/1 - 10/4
 - Adjustments 10/9 - 10/11
-- Lets build a routine 10/14....
+- Lets build a routine 10/14
+- Discussing a new client project 8/16
