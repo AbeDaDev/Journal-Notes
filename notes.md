@@ -72,4 +72,5 @@ Coding Journal 2026
 - Adjustments 10/9 - 10/11
 - Lets build a routine 10/14
 - Discussing a new client project 8/16
-- Discussing features for the project 8/19...
+- Discussing features for the project 8/19
+- Tech 
