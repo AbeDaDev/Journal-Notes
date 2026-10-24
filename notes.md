@@ -74,3 +74,4 @@ Coding Journal 2026
 - Discussing a new client project 8/16
 - Discussing features for the project 8/19
 - Tech 
+home office
