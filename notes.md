@@ -73,5 +73,6 @@ Coding Journal 2026
 - Lets build a routine 10/14
 - Discussing a new client project 8/16
 - Discussing features for the project 8/19
-- Tech 
-home office
+- Tech Link Up 8/21 
+- Setting up home office 8/23
+- Setting up Claude pro
