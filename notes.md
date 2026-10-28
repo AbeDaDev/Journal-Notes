@@ -75,4 +75,5 @@ Coding Journal 2026
 - Discussing features for the project 8/19
 - Tech Link Up 8/21 
 - Setting up home office 8/23
-- Setting up Claude pro 8/24
+- Setting up Claude pro 8/25
+- Arranging my set up 8/27
