@@ -77,3 +77,4 @@ Coding Journal 2026
 - Setting up home office 8/23
 - Setting up Claude pro 8/25
 - Arranging my set up 8/27
+- Adjusting my portfolio website 9/2
