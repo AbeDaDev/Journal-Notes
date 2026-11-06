@@ -78,4 +78,4 @@ Coding Journal 2026
 - Setting up Claude pro 8/25
 - Arranging my set up 8/27
 - Adjusting my portfolio website 9/2
-- Tech Link Up 9/4
+- Tech Link Up 9/4....
