@@ -80,3 +80,4 @@ Coding Journal 2026
 - Adjusting my portfolio website 9/2
 - Tech Link Up 9/4
 - Selfcare 11/6
+- Organizing and stratigic approach 11/8
