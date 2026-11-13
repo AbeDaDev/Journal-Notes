@@ -81,4 +81,4 @@ Coding Journal 2026
 - Tech Link Up 9/4
 - Selfcare 11/6
 - Organizing and stratigic approach 11/8
-- Started AWS 11/10 - 11/11
+- Started AWS 11/10 - 11/11....
