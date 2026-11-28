@@ -84,4 +84,4 @@ Coding Journal 2026
 - Started AWS 11/10 - 11/17
 - Tech Meet Up 11/18
 - TECHeria Meet Up 11/19
-- 
+- ....
